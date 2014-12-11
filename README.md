@@ -10,7 +10,7 @@ VirtualEdgeProject
 
 FIXES:<br>
 * None
-<br><br>
+<br>
 
 ADDITIONS:<br>
 * None
