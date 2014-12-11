@@ -9,11 +9,12 @@ VirtualEdgeProject
 
 <br><br>
 
-FIXES:
-
+FIXES:<br>
+• None
 <br><br>
 
-ADDITIONS:
+ADDITIONS:<br>
+• None
 
 
 
