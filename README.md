@@ -7,7 +7,6 @@ VirtualEdgeProject
 * Make QR or NFC interact with the project<br>
 * OpenGL code intergration and examples<br>
 
-<br>
 
 FIXES:<br>
 * None
