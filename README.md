@@ -7,7 +7,6 @@ TODO:
 • Make QR or NFC interact with the project
 • OpenGL code intergration and examples
 
-
 FIXES:
 
 
